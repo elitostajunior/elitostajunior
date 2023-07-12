@@ -1,4 +1,4 @@
-# Hi! I'm Eli! 👋
+# Olá! Sou Eli! 👋
 
 <!-- 🔭 I’m currently working on
 👯 I’m looking to collaborate on
@@ -6,6 +6,18 @@
 🌱 I’m currently learning
 💬 Ask me about
 ⚡ Fun fact -->
+
+Estou iniciando uma transição de carreira para me tornar um desenvolvedor front-end. Apesar de ter uma formação acadêmica em Direito, descobri minha paixão pela criação de interfaces de usuário e decidi seguir meu entusiasmo pela tecnologia.
+
+Atualmente, tenho conhecimentos sólidos em HTML, CSS e JavaScript, que são as bases fundamentais do desenvolvimento front-end. Essas linguagens me permitem construir interfaces interativas e responsivas, que são essenciais para proporcionar uma ótima experiência do usuário.
+
+Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e aprender novas tecnologias. Tenho interesse especial em frameworks e bibliotecas front-end, como React.js e Angular, e estou investindo meu tempo em aprofundar meu conhecimento nessas tecnologias.
+
+Meu foco principal é trabalhar em projetos front-end, onde posso criar interfaces atraentes e funcionais para os usuários. Acredito na importância de uma colaboração eficiente e na busca por soluções criativas para os desafios de desenvolvimento.
+
+Se você está interessado em colaborar em projetos front-end ou se gostaria de discutir ideias, não hesite em entrar em contato comigo. Estou ansioso para contribuir para projetos empolgantes e continuar a expandir minha experiência como desenvolvedor front-end.
+
+Obrigado por ler minha apresentação e visitar meu repositório no GitHub!
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elitostajunior) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eligarciajunior)
